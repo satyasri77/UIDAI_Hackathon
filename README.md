@@ -47,3 +47,7 @@ This framework enables UIDAI and policymakers to:
 - Allocate resources based on impact and persistence  
 - Improve enrolment equity and operational efficiency  
 - Move from reactive monitoring to **data-driven intervention planning**
+
+🔗 **Interactive Folium Map (Download & Open Locally)**  
+https://github.com/satyasri77/UIDAI_Hackathon/releases/html/v1.0/aadhaar_multilevel_map.html
+
